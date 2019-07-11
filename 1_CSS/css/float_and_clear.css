@@ -17,6 +17,11 @@ img {
   clear: left;
 }
 .float2 {
+  float: left;
+  clear: right;
+}
+
+.float3 {
   float: right;
   clear: right;
 }

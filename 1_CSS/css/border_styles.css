@@ -27,10 +27,10 @@ img {
   border: 5px double #000;
 }
 .groove {
-  border: 10px groove #000;
+  border: 10px groove blue;
 }
 .ridge {
-  border: 15px ridge #000;
+  border: 15px ridge teal;
 }
 .inset {
   border: 20px inset #009;
